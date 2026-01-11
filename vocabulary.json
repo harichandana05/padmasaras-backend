@@ -1,0 +1,22 @@
+{
+  "hello": {
+    "telugu": "హలో",
+    "hindi": "नमस्ते"
+  },
+  "how": {
+    "telugu": "ఎలా",
+    "hindi": "कैसे"
+  },
+  "are": {
+    "telugu": "ఉన్నారు",
+    "hindi": "हैं"
+  },
+  "you": {
+    "telugu": "మీరు",
+    "hindi": "आप"
+  },
+  "book": {
+    "telugu": "పుస్తకం",
+    "hindi": " किताब"
+  }
+}
